@@ -15,11 +15,17 @@ header {
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #77aaff 3px solid;
+    text-align: center;
 }
 header h1 {
-    text-align: center;
     text-transform: uppercase;
     margin: 0;
+}
+header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
 }
 .main {
     padding: 20px;
